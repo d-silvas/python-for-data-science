@@ -53,6 +53,7 @@ print(df_obj < 0.2)
 print()
 
 print('Filtering with scalars:')
+print(series_obj > 6)
 print(series_obj[series_obj > 6])
 
 print()
